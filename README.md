@@ -139,7 +139,7 @@ The purpose is to make the architecture, evidence discipline, failure-driven evo
 
 ## Current Status
 
-The underlying project is complete. The repository is being prepared as the public evidence and architecture layer beneath the case study.
+The underlying project is complete. This repository is the public evidence and architecture layer beneath the case study.
 
 The case study tells the story.
 
