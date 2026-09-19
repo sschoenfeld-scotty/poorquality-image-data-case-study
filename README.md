@@ -113,6 +113,14 @@ The operating principle that emerged was simple.
 
 > **AI did not remove accountability as the workflow became more autonomous. It moved human judgment up a level.**
 
+## Related Reasoning Systems
+
+[GTM AI Reasoning Systems](https://github.com/sschoenfeld-scotty/gtm-ai-reasoning-systems) is the broader body of work documenting reasoning architectures and their evolution. It also contains evaluation methods and related applied reasoning work.
+
+This case study is a related applied AI operating project. It demonstrates human-directed orchestration and evidence discipline in a persistent AI workflow. It also shows how failures shaped control design and moved human judgment into the operating system around the workflow.
+
+The case remains in its own repository as an applied demonstration of that broader operating philosophy. It is not direct validation of Full Stack v5 or GTM Diagnostic Framework v9. No claim is made that it executed a particular framework version.
+
 ## Repository Map
 
 | Area | Purpose |
@@ -126,6 +134,10 @@ The operating principle that emerged was simple.
 ## Evidence And Limits
 
 This repository distinguishes documented outcomes from broader hypotheses.
+
+The reported project outcomes are grounded in retained private project records, including the final recorded project workbook and preserved batch audit evidence. Those production records are not published in this repository.
+
+The public repository documents the operating method and selected evidence. It does not provide an independently reproducible verification package.
 
 The final record count and closure point are documented project outcomes. The late-stage integrity reconstruction is a documented recovery event. The approximately 11-minute Instant execution is one observed batch result, not a benchmark or universal model comparison.
 
