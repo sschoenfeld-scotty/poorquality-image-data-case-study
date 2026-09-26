@@ -5,7 +5,7 @@ One late-stage recovery event became the clearest quantitative example of why th
 An earlier aggregate control set recorded the following results for one source scope.
 
 | Measure | Earlier aggregate control |
-| --- | ---: |
+| --- | ---. |
 | Unique readable people | 220 |
 | Zero exact-name matches | 15 |
 | Single exact-name matches | 179 |
@@ -14,7 +14,7 @@ An earlier aggregate control set recorded the following results for one source s
 A later direct source-grounded reconstruction found materially different results.
 
 | Measure | Source-grounded reconstruction |
-| --- | ---: |
+| --- | ---. |
 | Unique readable people | 376 |
 | Zero exact-name matches | 59 |
 | Single exact-name matches | 278 |
