@@ -63,7 +63,7 @@ See [Mature Batch Workflow](architecture/mature-batch-workflow.md) and [Interrup
 One late-stage source scope had already been summarized through aggregate controls. A later direct source-grounded reconstruction produced materially different results.
 
 | Measure | Earlier aggregate control | Source-grounded reconstruction |
-| --- | ---: | ---: |
+| --- | ---. | ---. |
 | Unique readable people | 220 | 376 |
 | Zero exact-name matches | 15 | 59 |
 | Single exact-name matches | 179 | 278 |
