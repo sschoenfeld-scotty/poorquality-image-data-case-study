@@ -85,7 +85,7 @@ The most important pivot came late in the project.
 One source scope had already been summarized through aggregate controls. A later direct source-grounded recovery produced materially different evidence.
 
 | Measure | Earlier aggregate control | Source-grounded reconstruction |
-| --- | ---: | ---: |
+| --- | ---. | ---. |
 | Unique readable people | 220 | 376 |
 | Zero exact-name matches | 15 | 59 |
 | Single exact-name matches | 179 | 278 |
