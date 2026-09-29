@@ -119,7 +119,7 @@ The operating principle that emerged was simple.
 
 This case study is a related applied AI operating project. It demonstrates human-directed orchestration and evidence discipline in a persistent AI workflow. It also shows how failures shaped control design and moved human judgment into the operating system around the workflow.
 
-The case remains in its own repository as an applied demonstration of that broader operating philosophy. It is not direct validation of Full Stack v5 or GTM Diagnostic Framework v9. No claim is made that it executed a particular framework version.
+The case remains in its own repository as an applied demonstration of that broader operating philosophy. It is not direct validation of Full Stack v5.1 or GTM Diagnostic Framework v9. No claim is made that it executed a particular framework version.
 
 ## Repository Map
 
